@@ -68,8 +68,8 @@ docker-compose up -d
 
 podem ser rodadas normalmente na ide 
 
--`Comandos para testes`
 ----------------------------------------------------------------------------------------------------------------
+-:bangbang: Comandos para usar o sistema 
 
 Utilizando o PostMan 
 
@@ -129,6 +129,7 @@ A solicitação vai ser criada no `service-producer` e recebida pelo `json-consu
     "id":1,
     "idService":8
 }
+---------------------------------------------------------------------------------------------------
 
 ## :hotsprings: Tecnologias Utilizadas no Projeto
 -  `Java`
