@@ -9,19 +9,20 @@
 
 - `Postegres e Kakfa Docker`: Imagens Docker: 
 Imagens Docker para otimizar o processo  
-<a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/projetos/aula2">Link do Projeto</a>
+<a href="https://github.com/gbacharel/Lopes-Teste/tree/master/postgres-docker">Link do Projeto PostGres</a>
+<a href="https://github.com/gbacharel/Lopes-Teste/tree/master/kafka-docker">Link do Projeto Kafka</a>
 
 - `API Servico` : API do Projeto
 Cadastra, mostra,deleta e atualiza um serviço e salva no banco de Dados, usando os metodos HTTP (POST, GET, DELETE e PUT)
-<a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/projetos/aula1">Link do Projeto</a>
+<a href="https://github.com/gbacharel/Lopes-Teste/tree/master/API-SERVICO">Link do Projeto</a>
 
 - `service-producer`: Processo que cria uma solicitação: 
 Cria uma solicitação via Kafka para a json-consumer 
-<a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/projetos/aula2">Link do Projeto</a>
+<a href="https://github.com/gbacharel/Lopes-Teste/tree/master/service-producer">Link do Projeto</a>
 
 - `json-consumer`: Mostrando a Mensagem: 
 Consume a mensagem do service-producer e mostra na tela o recebimento com sucesso  
-<a href="https://github.com/gbacharel/Alura-Imersao-Java-Sprint/tree/master/projetos/aula3">Link do Projeto</a>
+<a href="https://github.com/gbacharel/Lopes-Teste/tree/master/json-consumer">Link do Projeto</a>
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## :computer: Abrir e rodar o projeto 
