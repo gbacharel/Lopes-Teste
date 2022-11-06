@@ -7,12 +7,12 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- `Postegres Docker`: Imagens Docker: 
+- `Postgres Docker`: Imagens Docker: 
 Imagem Docker para otimizar o processo  
 
    <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/postgres-docker">Link do Projeto PostGres</a>
 
-- `Postegres Docker`: Imagens Docker: 
+- `Kafka Docker`: Imagens Docker: 
 Imagem Docker para otimizar o processo  
 
    <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/kafka-docker">Link do Projeto Kafka</a>
@@ -28,14 +28,14 @@ Cria uma solicitação via Kafka para a json-consumer
    <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/service-producer">Link do Projeto</a>
 
 - `json-consumer`: Mostrando a Mensagem: 
-Consume a mensagem do service-producer e mostra na tela o recebimento com sucesso  
+Consume a solicitação do service-producer e mostra na tela o recebimento com sucesso  
 
    <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/json-consumer">Link do Projeto</a>
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## :computer: Abrir e rodar o projeto 
-Após baixar o projeto, voce pode abrir no VScode(ou em qualquer ide que rode Java) 
-com as extensões de Java baixadas, Postegres,Docker, PostMan e Maven 
+Após baixar o projeto, voce pode abrir no Intellij(ou em qualquer ide que rode Java) 
+com as extensões de Java baixadas, Postgres,Docker, PostMan e Maven 
 
 -`Codigos`:
 
@@ -53,6 +53,7 @@ nessa caso pode baixar direto a ferramenta ou baixar o docker
 Crie o banco API-SERVICO 
 user: postgres 
 senha:teste1234
+criando o banco: API-SERVICO 
 no arquivo application.properties no API-SERVICO 
 
 ou via Docker 
@@ -71,7 +72,7 @@ Utilizando o PostMan
 
 -`API-SERVICO`
 
-Para cadastrar um serviço 
+Para cadastrar um serviço no Postgres 
 
 -`Metodo POST` 
 
