@@ -44,8 +44,11 @@ com as extensões de Java baixadas, Postgres,Docker, PostMan e Maven
 Para rodar os - `Dockers`
 
 -`Kafka`
-cd kafka-docker 
+
+cd kafka-docker
+
 docker-compose up -d 
+
 cd ..
 
 -`Postgres`
