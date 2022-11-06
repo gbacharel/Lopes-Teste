@@ -3,6 +3,7 @@
 ## :bangbang: Status do Projeto
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+<img src="http://img.shields.io/static/v1?label=STATUS&message=ENTREGUE%20&color=GREEN&style=for-the-badge"/>   
 </p>
 
 ## :hammer: Funcionalidades do projeto
@@ -69,7 +70,7 @@ docker-compose up -d
 podem ser rodadas normalmente na ide 
 
 ----------------------------------------------------------------------------------------------------------------
--:bangbang: Comandos para usar o sistema 
+## 📀 Comandos para usar o sistema 
 
 Utilizando o PostMan 
 
