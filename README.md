@@ -35,12 +35,12 @@ Realiza o consumo da solicitação service-producer e exibe o recebimento com su
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## :computer: Abrir e rodar o projeto 
-Após baixar o projeto, voce pode abrir no Intellij(ou em qualquer ide que rode Java) 
-com as extensões de Java baixadas, Postgres,Docker, PostMan e Maven 
+Ao baixar o projeto, você pode executá-lo na ferramenta Intellij ou em qualquer IDE que execute Java e 
+tenha extensões Java baixadas,Postgres, Docker, PostMan e Maven 
 
 -`Codigos`:
 
-- `open the folder` na IDE de sua preferencia e abra o arquivo baixado no GIT 
+- `open the folder` na IDE de sua preferência e abra o arquivo baixado no GIT 
 
 Para rodar os - `Dockers`
 
