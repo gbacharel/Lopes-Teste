@@ -7,30 +7,31 @@
 
 ## :hammer: Funcionalidades do projeto
 
-- `Postgres Docker`: Imagens Docker: 
-Imagem Docker para otimizar o processo  
+- `Postgres Docker`: Imagem Docker: 
+Imagem Docker - São utilizadas para otimizar o processo 
 
    <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/postgres-docker">Link do Projeto PostGres</a>
 
-- `Kafka Docker`: Imagens Docker: 
-Imagem Docker para otimizar o processo  
+- `Kafka Docker`: Imagem Docker: 
+Imagem Docker - São utilizadas para otimizar o processo 
 
    <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/kafka-docker">Link do Projeto Kafka</a>
 
-- `API Servico` : API do Projeto
-Cadastra, mostra,deleta e atualiza um serviço e salva no banco de Dados, usando os metodos HTTP (POST, GET, DELETE e PUT)
+- `API-SERVICO` : API do Projeto
+A API do Projeto possibilita exibir informações, cadastrar, excluir, atualizar um serviço e salvar os dados no banco de dados através dos métodos 
+HTTP (POST, GET, DELETE e PUT).
 
-   <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/API-SERVICO">Link do Projeto</a>
+   <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/API-SERVICO">Link do Projeto API-SERVICO</a>
 
 - `service-producer`: Processo que cria uma solicitação: 
-Cria uma solicitação via Kafka para a json-consumer 
+Processo que cria uma solicitação via Kafka para a json-consumer. 
 
-   <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/service-producer">Link do Projeto</a>
+   <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/service-producer">Link do Projeto service-producer</a>
 
-- `json-consumer`: Mostrando a Mensagem: 
-Consume a solicitação do service-producer e mostra na tela o recebimento com sucesso  
+- `json-consumer`: Mostrando a solicitação: 
+Realiza o consumo da solicitação service-producer e exibe o recebimento com sucesso na tela. 
 
-   <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/json-consumer">Link do Projeto</a>
+   <a href="https://github.com/gbacharel/Lopes-Teste/tree/master/json-consumer">Link do Projeto json-consumer</a>
 
 -----------------------------------------------------------------------------------------------------------------------------
 ## :computer: Abrir e rodar o projeto 
@@ -133,7 +134,7 @@ A solicitação vai ser criada no `service-producer` e recebida pelo `json-consu
 ---------------------------------------------------------------------------------------------------
 
 ## :hotsprings: Tecnologias Utilizadas no Projeto
--  `Java`
+-  `Java 17`
 -  `Spring`
 -  `Postgres`
 -  `Docker`
